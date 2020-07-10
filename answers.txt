@@ -1,0 +1,16 @@
+14 - Files (countries.txt) ; Content - first two lines in the file.
+15 - only one - 2a895e1 (HEAD -> master) added two countries in file countries.txt
+16 - Files (answers.txt, countries.txt); Content - everything is visible.
+17 - 9c0dcd7 (HEAD -> add_countries) added two more countries to file countries.txt
+2a895e1 (master) added two countries in file countries.txt
+18 - Files (answers.txt,countries.txt,cities.txt) ; Content - First two lines 
+19 - 6ab451d (HEAD -> add_cities) added to cities names to file cities.txt
+2a895e1 (master) added two countries in file countries.txt
+22 - Files - (answers.txt, countries.txt) ; Content - all 4 countries
+23 - 9c0dcd7 (HEAD -> master, add_countries) added two more countries to file countries.txt
+2a895e1 added two countries in file countries.txt
+25 - Files (answers.txt,countries.txt,cities.txt) ; Content - cities (2) ; countries (4)
+26 - 09ee0f4 (HEAD -> master) Merge branch 'add_cities'
+6ab451d (add_cities) added to cities names to file cities.txt
+9c0dcd7 (add_countries) added two more countries to file countries.txt
+2a895e1 added two countries in file countries.txt
